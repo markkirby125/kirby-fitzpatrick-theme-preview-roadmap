@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-theme-preview-roadmap
-description: "Preview upcoming argument sequences at the close of introductory paragraphs." Use this when working on fitzpatrick theme preview roadmap.
+description: "Preview upcoming argument sequences at the close of introductory paragraphs. Use this when working on fitzpatrick theme preview roadmap."
 category: "Writing & Communication"
 triggers:
   - "theme preview roadmap"
